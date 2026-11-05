@@ -11,9 +11,20 @@ I specialize in **AI Orchestration**: defining system requirements, chaining com
 
 *Note: Most of my repositories are set to **Private** to protect proprietary logic, personal workflow tools, and work-in-progress projects. Detailed technical walkthroughs, architecture diagrams, and code reviews are available upon request or under NDA.*
 
----
+### 💥 Interactive Landing Page — Two Versions, One Decision
 
-## 🚀 Featured Projects
+* **My Role:** Owner, Lead Architect & Prompt Engineer
+* **Description:** A decision page that lets visitors choose between two fully built versions of the same site
+* One structured and the otherdeliberately unhinged — both hand-built to demonstrate what a page can feel like when it isn't a template.
+* **Key Contributions:**
+  - Owned the concept and creative direction end to end, taking both versions from first prompt to production.
+  - Locked a strict visual and typographic system per version so the chaos stayed intentional instead of drifting.
+  - Engineered the prompt chain that produced the breakthrough output, deliberately pulling the model out of its default clanker-slop patterns.
+  - Authored and published the open-source **CreativeBreakthroughSkill**, packaging that prompt chain as a reusable agent skill.
+  - Shipped both routes with canonical URLs, structured data and a sitemap so the experiment is indexable and shareable.
+  - https://sawkasolutions.com
+  - https://github.com/SteveSawka/CreativeBreakthroughSkill
+
 
 ### 📞 AI Voice Agency & Lead Routing Engine
 * **My Role:** Lead Architect & Prompt Engineer
