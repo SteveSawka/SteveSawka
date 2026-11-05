@@ -1,11 +1,11 @@
 # Stephen Sawka
 **Technical Evaluator & AI Orchestrator | Domain Expert: Diesel/Automotive Mechanics**  
-📍 Colorado Springs, CO | ✉️ Steve@SawkaSolutions.help  
+📍 Colorado Springs, CO | ✉️ Steve@SawkaSolutions.com 
 
 ---
 
 ## 🔧 About Me
-I am a veteran diesel and heavy equipment mechanic transitioning into AI Training, Prompt Engineering, and Technical Evaluation. With 17+ years of experience diagnosing complex mechanical systems, I bring a zero-defect, root-cause analysis mindset to evaluating AI outputs. 
+I am a veteran diesel and heavy equipment mechanic transitioning into Website Design, AI Training, Prompt Engineering, and Technical Evaluation. With 17+ years of experience diagnosing complex mechanical systems, I bring a zero-defect, root-cause analysis mindset to evaluating AI outputs, and some abrasive/blunt attitude to the cookie cutter atmosphere of AI development. 
 
 I specialize in **AI Orchestration**: defining system requirements, chaining complex prompts across multiple LLMs, and rigorously evaluating AI-generated logic for edge cases, hallucinations, and safety compliance before deployment. 
 
