@@ -1,5 +1,5 @@
 # Steve Sawka
-**Webpage Designer, AI Orchestrator  | Domain Expert: Diesel/Automotive Mechanics**  
+**Web Designer, AI Orchestrator  | Domain Expert: Diesel/Automotive Mechanics**  
 📍 Colorado Springs, CO | ✉️ Steve@SawkaSolutions.com 
 
 ---
