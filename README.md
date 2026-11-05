@@ -1,5 +1,5 @@
 # Stephen Sawka
-**Technical Evaluator & AI Orchestrator | Domain Expert: Diesel/Automotive Mechanics**  
+**Webpage Designer, AI Orchestrator  | Domain Expert: Diesel/Automotive Mechanics**  
 📍 Colorado Springs, CO | ✉️ Steve@SawkaSolutions.com 
 
 ---
